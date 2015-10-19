@@ -57,6 +57,7 @@ def sq(x : Int) = x * x;
 
 ```scala
 def sqf(x : Int) : Double = x * x;
+```
 
 * Primitive types in Scala : Int, Double, Boolean (capitalized)
 

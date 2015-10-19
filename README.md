@@ -11,6 +11,6 @@
   - [ ] Lists
   - [ ] Collections
   - [ ] Lazy Evaluation
-- [ ] [Scala for the Impatient by Cay Horstmann](#)
-- [ ] [Scala by Example by Martin Odersky](#)
+- [ ] [Scala for the Impatient by Cay Horstmann](https://media.githubusercontent.com/media/suriyadeepan/scala-scaffold/master/doc/scala-for-the-impatient.pdf)
+- [ ] [Scala by Example by Martin Odersky](https://media.githubusercontent.com/media/suriyadeepan/scala-scaffold/master/doc/ScalaByExample.pdf)
 
